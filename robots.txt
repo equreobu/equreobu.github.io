@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://equreobu.github.io/sitemap_index.equreobu
